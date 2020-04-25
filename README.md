@@ -16,10 +16,14 @@ Asensin gitin paikallisesti, konfiguroin omat käyttäjätiedot sekä salasana-a
 Muokkasin README.md-tiedostoa ja lisäsin muutokset Gittiin $ git add . && git commit; git pull && git push. Päivitin selaimen testatakseni tulokset
 
 
-![image](4.png)
+![image](3.png)
 
 MarkDown ja Git toimivat onnistuneesti. 
 
 # ‘git log’, ‘git diff’ ja ‘git blame’
 
+Tarkastellaan ja testataan git-komentoja. git log antaa raportin commit-historiasta. Raportissa näkyy commitin käyttäjätiedot, jotka
+konfiguroitiin aiemmin. Eli käyttäjän nimi sekä sähköposti. Lisäksi komento tulostaa kirjoitetun komennon sekä tarkan ajan.
+
+![image](7.png)
 
