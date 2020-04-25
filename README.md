@@ -13,7 +13,7 @@ Asensin gitin paikallisesti, konfiguroin omat käyttäjätiedot sekä salasana-a
 ![image](2.png)
 
 "Kloonasin" Git-repositoryni terminaaliin $ git clone https://github.com/markussaikkonen/versionhallinta.git 
-Muokkasin README.md-tiedostoa ja päivitin selaimen.
+Muokkasin README.md-tiedostoa ja lisäsin muutokset Gittiin $ git add . && git commit; git pull && git push. Päivitin selaimen testatakseni tulokset
 
 
 ![image](4.png)
