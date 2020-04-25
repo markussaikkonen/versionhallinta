@@ -32,3 +32,8 @@ README-tiedostoon ja katson tulosteen komennolla.
 
 ![image](8.png)
 
+git blame-komento on nimetty osuvasti raportoimaan rivin tarkkuudella kuka käyttäjä on tehnyt muutoksia. Komento tulostaa jokaisen
+rivin muokanneen käyttäjän sekä tarkan ajankohdan. Lisäksi jokaisella ajakohdalla, jona muokkaus on tehty, on oma tunnus esim. d578836b.
+
+![image](9.png)
+
