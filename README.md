@@ -18,3 +18,8 @@ Muokkasin README.md-tiedostoa ja päivitin selaimen.
 
 ![image](4.png)
 
+MarkDown ja Git toimivat onnistuneesti. 
+
+#‘git log’, ‘git diff’ ja ‘git blame’
+
+
