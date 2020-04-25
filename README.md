@@ -20,6 +20,6 @@ Muokkasin README.md-tiedostoa ja päivitin selaimen.
 
 MarkDown ja Git toimivat onnistuneesti. 
 
-#‘git log’, ‘git diff’ ja ‘git blame’
+# ‘git log’, ‘git diff’ ja ‘git blame’
 
 
