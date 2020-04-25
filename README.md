@@ -27,3 +27,8 @@ konfiguroitiin aiemmin. Eli käyttäjän nimi sekä sähköposti. Lisäksi komen
 
 ![image](7.png)
 
+git diff tulostaa muutokset, joita ei vielä ole lisätty indeksiin add, commit, pull ja push -komennoilla. Kirjoitan tämän muutoksen 
+README-tiedostoon ja katson tulosteen komennolla.
+
+![image](8.png)
+
