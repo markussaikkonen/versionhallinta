@@ -12,3 +12,9 @@ Asensin gitin paikallisesti, konfiguroin omat käyttäjätiedot sekä salasana-a
 
 ![image](2.png)
 
+"Kloonasin" Git-repositoryni terminaaliin $ git clone https://github.com/markussaikkonen/versionhallinta.git 
+Muokkasin README.md-tiedostoa ja päivitin selaimen.
+
+
+![image](4.png)
+
