@@ -37,3 +37,12 @@ rivin muokanneen käyttäjän sekä tarkan ajankohdan. Lisäksi jokaisella ajako
 
 ![image](9.png)
 
+# Muutos gittiin
+
+![image](10.png)
+
+kokeilin git reset --hard komentoa, joka poistaa lisätyt muutokset, joita ei ole vielä commit-toiminnolla lisätty gittiin.
+Loin komennon testausta varten git-kansioon reset.txt-tiedoston. Lisäsin muutoksen komennolla 'git add .' ja katsoin tuloksen 'git status'-komennolla ja näin, että muutos oli viellä committia vailla. Seuraavaksi käytin komentoa
+git reset --hard. Komento antoi tulosteen "HEAD is now at e4437ee Update report".
+Katsoin kansiota ja näin reset.txt-tiedoston poistuneen. 
+
