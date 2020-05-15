@@ -1,5 +1,14 @@
 # versionhallinta
-Palvelinten hallinta 2020 / h3
+Tero Karvinen Palvelinten hallinta k2020
+
+Harjoitus 3 - Versionhallinta. 
+
+Lähteet Terokarvinen.com 
+http://terokarvinen.com/2020/configuration-managment-systems-palvelinten-hallinta-ict4tn022-spring-2020/
+http://terokarvinen.com/2016/publish-your-project-with-github
+
+Markdownguide.org
+https://www.markdownguide.org/cheat-sheet/
 
 Tämä raportti on kirjoitettu MarkDownilla
 
@@ -45,4 +54,13 @@ kokeilin git reset --hard komentoa, joka poistaa lisätyt muutokset, joita ei ol
 Loin komennon testausta varten git-kansioon reset.txt-tiedoston. Lisäsin muutoksen komennolla 'git add .' ja katsoin tuloksen 'git status'-komennolla ja näin, että muutos oli viellä committia vailla. Seuraavaksi käytin komentoa
 git reset --hard. Komento antoi tulosteen "HEAD is now at f61f378 Update report", joka vaikuttaisi olevan alkutilanteen ID.
 Katsoin kansiota ja näin reset.txt-tiedoston poistuneen. 
+
+# Lähteet 
+Terokarvinen.com
+http://terokarvinen.com/2020/configuration-managment-systems-palvelinten-hallinta-ict4tn022-spring-2020/
+http://terokarvinen.com/2016/publish-your-project-with-github
+
+Markdownguide.org
+https://www.markdownguide.org/cheat-sheet/
+
 
