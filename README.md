@@ -3,12 +3,8 @@ Tero Karvinen Palvelinten hallinta k2020
 
 Harjoitus 3 - Versionhallinta. 
 
-Lähteet Terokarvinen.com 
+Kurssisivu ja tehtävänanto
 http://terokarvinen.com/2020/configuration-managment-systems-palvelinten-hallinta-ict4tn022-spring-2020/
-http://terokarvinen.com/2016/publish-your-project-with-github
-
-Markdownguide.org
-https://www.markdownguide.org/cheat-sheet/
 
 Tämä raportti on kirjoitettu MarkDownilla
 
