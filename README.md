@@ -1,7 +1,7 @@
-# versionhallinta
+# Git, versionhallinta ja MarkDown
 Tero Karvinen Palvelinten hallinta k2020
 
-Harjoitus 3 - Versionhallinta. 
+Harjoitus 3 
 
 Kurssisivu ja tehtävänanto
 http://terokarvinen.com/2020/configuration-managment-systems-palvelinten-hallinta-ict4tn022-spring-2020/
